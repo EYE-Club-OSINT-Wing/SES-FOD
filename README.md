@@ -12,4 +12,4 @@ Released under The Open Source Project by The Eye.
 # Usage
 
 - Download this repository, and run the EXE file inside the `/dist` directory.
-- To modify, modify the code in the /src directory and raise a PR to contribute.
+- To modify, modify the code in the `/src` directory and raise a PR to contribute.
